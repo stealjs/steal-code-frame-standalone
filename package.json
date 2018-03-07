@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "babel-code-frame": "^6.26.0",
-    "steal-tools": "^1.11.4"
+    "steal-tools": "^1.11.5"
   }
 }
